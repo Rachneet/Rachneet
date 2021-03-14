@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on NLP tasks that help the open source community.
 - 📫 How to reach me : 
      email: rachneet1993@gmail.com, rachneetsachdeva@yahoo.com
-     Phone: +49 176 47194617
+     phone: +49 176 47194617
 
 <!---
 Rachneet/Rachneet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
