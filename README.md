@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <div style="display: flex; flex-direction: row;">
      
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=rachneet&theme=radical" />  &nbsp; &nbsp;
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=rachneet&theme=radical" />  &nbsp;
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=rachneet&theme=radical" />
 
 </div>
