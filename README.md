@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-<div align="center">
+<div align="left">
 
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachneet&theme=radical&layout=compact&hide=jupyter%20notebook" />
 
