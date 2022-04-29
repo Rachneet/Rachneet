@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 <div style="display: flex; flex-direction: row;">
      
-<a href="">![Github stats](https://github-readme-stats.vercel.app/api?username=rachneet&theme=radical)</a>  
-<a href="">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachneet&theme=radical&layout=compact&hide=jupyter%20notebook)</a>
+ <img class="img" src=https://github-readme-stats.vercel.app/api?username=rachneet&theme=radical)/>  
+ <img class="img" src=https://github-readme-stats.vercel.app/api/top-langs/?username=rachneet&theme=radical&layout=compact&hide=jupyter%20notebook)/>
 
 </div>
 
