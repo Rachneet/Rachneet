@@ -12,14 +12,9 @@ Rachneet/Rachneet is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align="center">  
+<div style="display: flex; flex-direction: row;">
      
 <a href="">![Github stats](https://github-readme-stats.vercel.app/api?username=rachneet&theme=radical)</a>  
-
-</div>
-
-<div align="center">
-     
-<a href="">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachneet&theme=radical&hide=jupyter%20notebook)</a>
+<a href="">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachneet&theme=radical&layout=compact&hide=jupyter%20notebook)</a>
 
 </div>
