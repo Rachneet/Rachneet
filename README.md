@@ -12,4 +12,4 @@ Rachneet/Rachneet is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-https://github-readme-stats.vercel.app/api?username=rachneet
+![Github stats](https://github-readme-stats.vercel.app/api?username=rachneet&theme=radical)
