@@ -13,6 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-![Github stats](https://github-readme-stats.vercel.app/api?username=rachneet&theme=radical)   
-<div/>
+     
+<a href="">![Github stats](https://github-readme-stats.vercel.app/api?username=rachneet&theme=radical)</a>
+     
+</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachneet&theme=tokyonight)
