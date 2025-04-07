@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rachneet
 - 👀 I’m interested in machine and deep learning with an interest in the safety and explainability of LLMs. 
-- 🌱 I’m currently learning MLOps, which helps take ML services to production with maximum efficiency.
 - 💞️ I’m looking to collaborate on NLP tasks that help the open-source community.
 - 📫 How to reach me : 
      email: rachneet1993@gmail.com, rachneetsachdeva@yahoo.com
